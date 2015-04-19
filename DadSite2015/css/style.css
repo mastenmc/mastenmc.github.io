@@ -7,7 +7,7 @@ body
 	{	background: #fff;}
 
 #header
-	{	background: #002a56 url("C:/Users/Callie/Dropbox/DadSite2015/images/scroll_guy_full.jpg") no-repeat;
+	{	background: #002a56 url("../images/scroll_guy_full.jpg") no-repeat;
 		background-size: 400px;
 		color: #ffcb05;
 		min-height: 150px}
